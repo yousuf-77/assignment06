@@ -11,7 +11,14 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-      }
+      },
+      screens: {
+        'xs': '520px',       // Extra small devices
+        'sm': '656px',       // Small devices (unchanged)
+        'md': '765px',       // Custom medium devices
+        'lg': '1080px',      // Custom large devices
+        
+      },
     },
   },
   
