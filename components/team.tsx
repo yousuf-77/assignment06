@@ -13,7 +13,7 @@ export default function Team() {
         </div>
         <div className="h-[732px] sm:h-[482px] w-full flex flex-col justify-between items-center ">
           <div className="h-full sm:h-[209px] w-full flex flex-col sm:flex-row justify-between sm:justify-around items-center">
-            <div className=" w-fullsm:w-[30.83%] max-w-[394.67px] h-[209px] sm:h-full flex flex-col justify-between items-center">
+            <div className=" w-full sm:w-[30.83%] max-w-[394.67px] h-[209px] sm:h-full flex flex-col justify-between items-center">
               <Image
                 src={"/images/people/person-1.svg"}
                 alt="person-image"
@@ -32,7 +32,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -51,7 +51,7 @@ export default function Team() {
                 ></Image>
               </div>
             </div>
-            <div className=" w-fullsm:w-[30.83%] max-w-[394.67px] h-[209px] sm:h-full flex flex-col justify-between items-center">
+            <div className=" w-full sm:w-[30.83%] max-w-[394.67px] h-[209px] sm:h-full flex flex-col justify-between items-center">
               <Image
                 src={"/images/people/person-2.svg"}
                 alt="person-image"
@@ -70,7 +70,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -108,7 +108,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -148,7 +148,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -186,7 +186,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -224,7 +224,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/icon/linkedin.svg"}
+                  src={"/images/Icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
