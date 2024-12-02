@@ -50,9 +50,9 @@ export default function Testimonial() {
                 ></Image>
               </div>
               <p className="w-[100%] lg:w-[84.85%] text-[18px] font-normal leading-[27px] text-left">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.
               </p>
               <div className="w-[254px] h-[56px] flex justify-between items-center">
                 <Image
@@ -109,9 +109,9 @@ export default function Testimonial() {
                 ></Image>
               </div>
               <p className="w-[100%] lg:w-[84.85%] text-[18px] font-normal leading-[27px] text-left">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.
               </p>
               <div className="w-[254px] h-[56px] flex justify-between items-center">
                 <Image
@@ -168,9 +168,9 @@ export default function Testimonial() {
                 ></Image>
               </div>
               <p className="w-[84.85%] text-[18px] font-normal leading-[27px] text-left">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.
               </p>
               <div className="w-[254px] h-[56px] flex justify-between items-center">
                 <Image
