@@ -32,7 +32,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -70,7 +70,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -108,7 +108,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -148,7 +148,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -186,7 +186,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}
@@ -224,7 +224,7 @@ export default function Team() {
               </div>
               <div className="h-6 w-[100px] flex justify-between items-center">
                 <Image
-                  src={"/images/linkedin.svg"}
+                  src={"/images/icon/linkedin.svg"}
                   alt="linkedin"
                   height={24}
                   width={24}

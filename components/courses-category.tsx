@@ -14,7 +14,7 @@ export default function CoursesCategory() {
         </div>
         <div className="h-[636px] flex flex-col justify-between items-stretch">
           <div className="h-[556px] md:h-[132px] flex-col flex items-center flex-wrap md:flex-row  justify-around">
-            <div className="w-[88.78%] max-w-[380px] h-[132px] md:w-[32.08%] md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
+            <div className="w-[88.78%] md:max-w-full max-w-[380px] h-[132px] md:w-[32.08%] md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
               <div className="bg-white w-[100px] h-[100px]  md:w-[85px] md:h-[85px] lg:w-[100px] lg:h-[100px] flex justify-center items-center">
                 <Image
                   src={"/images/courses-category/pen-tool.svg"}
@@ -32,7 +32,7 @@ export default function CoursesCategory() {
                 </p>
               </div>
             </div>
-            <div className=" w-[88.78%] max-w-[380px] h-[132px] md:w-[32.08%]  md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
+            <div className=" w-[88.78%] max-w-[380px]  md:max-w-full h-[132px] md:w-[32.08%]  md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
               <div className="bg-white w-[100px] h-[100px] md:w-[85px] md:h-[85px] lg:w-[100px] lg:h-[100px] flex justify-center items-center">
                 <Image
                   src={"/images/courses-category/volume-high.svg"}
@@ -50,7 +50,7 @@ export default function CoursesCategory() {
                 </p>
               </div>
             </div>
-            <div className=" w-[88.78%] max-w-[380px] h-[132px] md:w-[32.08%]  md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
+            <div className=" w-[88.78%] max-w-[380px] md:max-w-full h-[132px] md:w-[32.08%]  md:h-[100%] rounded-[5px] bg-[#F7F7F7] flex justify-around items-center md:gap-1 md:px-1">
               <div className="bg-white w-[100px] h-[100px] md:w-[85px] md:h-[85px] lg:w-[100px] lg:h-[100px] flex justify-center items-center">
                 <Image
                   src={"/images/courses-category/volume-high.svg"}
